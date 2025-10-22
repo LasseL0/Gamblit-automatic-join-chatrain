@@ -48,6 +48,7 @@ This project is a basic automation script that continuously searches for specifi
 
    ```bash
    cd path\to\your\folder
+   (example mine " cd C:\Users\lasse\Documents\botit "
    ```
 
 3. Run the script:
