@@ -7,7 +7,7 @@ This project is a basic automation script that continuously searches for specifi
 
 ## Features
 
-* Detects two images (`join.png` and `join2.png`) on screen.
+* Detects two images (`join.png` and `join2.png`) on screen. (you can download 2 images that are already tested or take your own SS and name it join, join2...)
 * Clicks each button when found.
 * Runs continuously in a loop until manually stopped.
 * Adjustable detection confidence.
