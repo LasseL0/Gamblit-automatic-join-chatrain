@@ -3,11 +3,14 @@
 
 This project is a basic automation script that continuously searches for specific buttons on your screen (provided as images) and clicks them automatically. It’s designed for Windows and uses Python with the PyAutoGUI library.
 
+WORKS ON GAMBLIT.NET AND GROWDICE.NET
+if you wanna farm both site chatrains u have to use split screen (windows by side windows)
+
 ---
 
 ## Features
 
-* Detects two images (`join.png` and `join2.png`) on screen. (you can download 2 images that are already tested or take your own SS and name it join, join2...)
+* Detects images (`join.png` and `join2.png`) on screen. (you can download images that are already tested or take your own SS and name it join, join2...)
 * Clicks each button when found.
 * Runs continuously in a loop until manually stopped.
 * Adjustable detection confidence.
@@ -57,7 +60,7 @@ This project is a basic automation script that continuously searches for specifi
    python rain_clicker.py
    ```
 
-4. The bot will start searching for `join.png` and `join2.png` on your screen and click them when found.
+4. The bot will start searching for `join.png` and `join2.png """"` on your screen and click them when found.
 
 5. To stop the bot, press `Ctrl + C` in the Command Prompt.
 
